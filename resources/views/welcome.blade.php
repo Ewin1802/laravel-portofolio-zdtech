@@ -108,7 +108,7 @@
 
                 <div class="glow"></div>
 
-                <img src="{{ asset('img/profile.jpg') }}" alt="Profile">
+                <img src="{{ asset('img/profile.png') }}" alt="Profile">
 
             </div>
 
@@ -129,12 +129,22 @@
 
             <div class="about-card" data-aos="zoom-in">
 
-                <p data-en="Passionate Frontend Developer focused on building responsive, elegant, and high-performance digital experiences."
-                    data-id="Frontend Developer yang fokus membangun pengalaman digital yang responsif, elegan, dan berkinerja tinggi.">
+                <p data-en="Passionate Frontend & Mobile Developer with experience building modern web and mobile applications for businesses, financial systems, and organizational platforms. I specialize in creating responsive interfaces, elegant user experiences, and scalable applications using Laravel, Flutter, JavaScript, and modern frontend technologies. Focused on clean architecture, performance optimization, and delivering digital solutions that help businesses grow efficiently."
+                    data-id="Frontend & Mobile Developer yang berpengalaman dalam membangun aplikasi web dan mobile modern untuk kebutuhan bisnis, sistem keuangan, dan platform organisasi. Saya fokus menciptakan tampilan yang responsif, pengalaman pengguna yang elegan, serta aplikasi yang scalable menggunakan Laravel, Flutter, JavaScript, dan teknologi frontend modern. Mengutamakan clean architecture, optimasi performa, dan solusi digital yang membantu bisnis berkembang lebih efisien.">
 
-                    Passionate Frontend Developer focused on building
-                    responsive, elegant, and high-performance digital
-                    experiences.
+                    Passionate Frontend & Mobile Developer with experience building
+                    modern web and mobile applications for businesses,
+                    financial systems, and organizational platforms.
+
+                    I specialize in creating responsive interfaces,
+                    elegant user experiences, and scalable applications
+                    using Laravel, Flutter, JavaScript,
+                    and modern frontend technologies.
+
+                    Focused on clean architecture,
+                    performance optimization,
+                    and delivering digital solutions
+                    that help businesses grow efficiently.
 
                 </p>
 
@@ -205,7 +215,7 @@
 
                         <a href="https://play.google.com/store/apps/details?id=com.zdtech.flutter_torang_pe_kas&hl=en"
                             target="_blank">
-                            Live Demo →
+                            Download on Play Store →
                         </a>
 
                     </div>
@@ -254,7 +264,7 @@
 
                         <a href="https://play.google.com/store/apps/details?id=com.zdtech.pastipay&hl=en"
                             target="_blank">
-                            Live Demo →
+                            Download on Play Store →
                         </a>
 
                     </div>
