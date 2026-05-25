@@ -209,8 +209,13 @@
 
                         <h3>JurnalDoi App</h3>
 
-                        <p>
-                            Personal finance management application built using Flutter.
+                        <p data-en="Free personal finance tracking application built with Flutter and SQLite database. Designed to help users manage income, expenses, financial records, backup & restore data, and daily budgeting with a clean and user-friendly interface."
+                            data-id="Aplikasi pencatatan keuangan gratis berbasis Flutter dan database SQLite. Dirancang untuk membantu pengguna mengelola pemasukan, pengeluaran, pencatatan transaksi, backup & restore data, serta budgeting harian dengan tampilan yang modern dan mudah digunakan.">
+
+                            Free personal finance tracking application built with Flutter and SQLite database. Designed
+                            to help users manage income, expenses, financial records, backup & restore data, and daily
+                            budgeting with a clean and user-friendly interface.
+
                         </p>
 
                         <a href="https://play.google.com/store/apps/details?id=com.zdtech.flutter_torang_pe_kas&hl=en"
@@ -230,8 +235,13 @@
 
                         <h3>SPJ Express</h3>
 
-                        <p>
-                            Responsive business management platform.
+                        <p data-en="Regional government financial reporting platform designed to manage budgeting reports, expenditure records, financial accountability documents, and administrative workflows with responsive dashboard interface and scalable system architecture."
+                            data-id="Platform laporan keuangan pemerintah daerah yang dirancang untuk mengelola laporan anggaran, pencatatan belanja, dokumen pertanggungjawaban keuangan, serta alur administrasi dengan dashboard responsif dan arsitektur sistem yang scalable.">
+
+                            Regional government financial reporting platform designed to manage budgeting reports,
+                            expenditure records, financial accountability documents, and administrative workflows with
+                            responsive dashboard interface and scalable system architecture.
+
                         </p>
 
                         <a href="https://spjexpress.orangsonuo.my.id" target="_blank">
@@ -254,11 +264,12 @@
 
                         </h3>
 
-                        <p data-en="Modern cashier application built for transaction management, sales recording, and business operations with responsive UI."
-                            data-id="Aplikasi kasir modern untuk manajemen transaksi, pencatatan penjualan, dan operasional bisnis dengan tampilan responsif.">
+                        <p data-en="Premium cashier application developed using Flutter and SQLite database for sales transactions, product management, business operations, and cashier activities. Built with responsive UI, modern design, and optimized performance for small and medium businesses."
+                            data-id="Aplikasi kasir premium berbasis Flutter dan database SQLite untuk transaksi penjualan, manajemen produk, operasional bisnis, dan aktivitas kasir. Dibangun dengan tampilan modern, responsif, dan performa yang optimal untuk kebutuhan usaha kecil hingga menengah.">
 
-                            Modern cashier application built for transaction management,
-                            sales recording, and business operations with responsive UI.
+                            Premium cashier application developed using Flutter and SQLite database for sales
+                            transactions, product management, business operations, and cashier activities. Built with
+                            responsive UI, modern design, and optimized performance for small and medium businesses.
 
                         </p>
 
